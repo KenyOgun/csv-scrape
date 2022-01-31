@@ -11,7 +11,7 @@ CSV Scrape
 ### Clone Project
 
 ```sh
-git clone https://gitlab.com/kenyogun/csv-scrape.git
+git clone https://github.com/kenyogun/csv-scrape.git
 ```
 
 ### Install Requirements
